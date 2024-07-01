@@ -15,8 +15,8 @@ Mcr	  Malonyl-CoA reductase (3-hydroxypropionate cycle)<br />
 RbcL	RuBisCO (CBB cycle; also include form II & III RuBisCO)<br />
 
 **Trace gas metabolism**<br />
-CooS	  Anaerobic carbon monoxide dehydrogenase (anaerobic CO oxidation)<br />
-CoxL	  Form I carbon monoxide dehydrogenase (aerobic CO oxidation)<br />
+CooS	  Anaerobic [NiFe]-carbon monoxide dehydrogenase (anaerobic CO oxidation)<br />
+CoxL	  Form I [MoCu]-carbon monoxide dehydrogenase (aerobic CO oxidation)<br />
 [Fe]	  [Fe]-hydrogenase (H2 metabolism)<br />
 [FeFe]  [FeFe]-hydrogenase (H2 metabolism)<br />
 [NiFe]  [NiFe]-hydrogenase (H2 metabolism)<br />

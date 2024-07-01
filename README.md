@@ -79,7 +79,7 @@ NuoF	Complex I F subunit (NADH oxidation)<br />
 ArsC	Arsenate reductase (arsenic detoxification)<br />
 
 ## Extended and modified database (2024)
-The extended and moodified databases are directly available in this github page.<br />
+The extended and modified databases are directly available in this github page.<br />
 
 **Trace gas metabolism**<br />
 McrA	  Methyl-CoM reductase (methanogenesis) [updated in 2024]<br />

@@ -96,6 +96,9 @@ PrmA	Soluble propane monooxygenase (Group V & VI SDIMO) (aerobic propane oxidati
 ZmoA	Soluble alkene-active monooxygenase (Group VII SDIMO) (putative aerobic alkene oxidation)<br />
 SmoX	Unclassified soluble diiron monooxygenase<br />
 
+**Nitrogen metabolism**<br />
+AmoA	  Ammonia monooxygenase (ammonia oxidation) [updated in 2024]<br />
+
 # Citation
 **Original 2020 database**<br />
 1. Greening C†\* & Geier R†, Wang C, Woods LC, Morales SE, McDonald MJ, Rushton-Green R, Morgan XC, Koike S, Leahy SC, Kelly WJ, Cann I, Attwood GT, Cook GM, Mackie RI* (2019). Diverse hydrogen production and consumption pathways influence methane production in ruminants. The ISME Journal 13, 2617-2632<br />

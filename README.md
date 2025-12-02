@@ -107,7 +107,7 @@ AmoA	  Ammonia monooxygenase (ammonia oxidation) [updated in 2024]<br />
 2. Ortiz M† & Leung PM†\*, Shelley G, Jirapanjawat T, Nauer PA, Van Goethem MW, Bay SK, Islam ZF, Jordaan K, Vikram S, Chown SL, Hogg ID, Makhalanyane TP, Grinter R, Cowan DA\*, Greening C\* (2021). Multiple energy sources and metabolic strategies sustain microbial diversity in Antarctic desert soils. PNAS 118, e2025322118<br />
 
 **Extended and modified 2024 database**<br />
-1. Leung PM†\* & Jeffrey LC†\*, Bay SK, Gomez-Alvarez P, Hall M, Johnston SG, Dittmann J, Jirapanjawat T, Hutchinson TF, Coleman NV, Dong X, Deschaseaux E, Maher DT & Greening C\* (2024). Wetland tree barks are dynamic hotspots for microbial trace gas cycling. bioRxiv, doi: 10.1101/2024.07.02.601631<br />
+1. Leung PM†\* & Jeffrey LC†\*, Bay SK, Gomez-Alvarez P, Hall M, Johnston SG, Dittmann J, Jirapanjawat T, Hutchinson TF, Coleman NV, Dong X, Deschaseaux E, Maher DT & Greening C\* (2025). Bark microbiota modulate climate-active gas fluxes in Australian forests. Science (in press), doi: 10.1101/2024.07.02.601631<br />
 
 **[NiFe]-, [FeFe]-, and [Fe]-hydrogenases**<br />
 1. Søndergaard D\*, Pedersen CNS, Greening C\* (2016) HydDB: a web tool for hydrogenase classification and analysis. Scientific Reports 6, 34212<br />

@@ -1,7 +1,7 @@
 # Greening lab database
 This is the repository for the metabolic marker gene databases compiled by lab members of Greening lab (http://www.greeninglab.com/) since 2016. 
 
-The original database was released in 2020 on Figshare (https://bridges.monash.edu/collections/Greening_lab_metabolic_marker_gene_databases/5230745). 
+The original database was released in 2020 on Figshare yet no longer accessible (https://bridges.monash.edu/collections/Greening_lab_metabolic_marker_gene_databases/5230745). 
 
 The extended and modified database are migrated to this github page.
 

@@ -3,7 +3,7 @@ This is the repository for the metabolic marker gene databases compiled by lab m
 
 The original database was released in 2020 on Figshare yet no longer editable (https://bridges.monash.edu/collections/Greening_lab_metabolic_marker_gene_databases/5230745). 
 
-The extended and modified database are migrated to this github page.
+The extended and modified database has been migrated to this github page.
 
 ## Original database (2020)
 **Carbon fixation**<br />
